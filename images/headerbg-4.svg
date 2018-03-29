@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 20.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 2085.4 916" style="enable-background:new 0 0 2085.4 916;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#XMLID_8_);}
+	.st1{opacity:0.14;fill:url(#XMLID_9_);enable-background:new    ;}
+	.st2{opacity:8.000000e-02;fill:url(#XMLID_10_);enable-background:new    ;}
+	.st3{opacity:8.000000e-02;fill:url(#XMLID_11_);enable-background:new    ;}
+	.st4{opacity:0.2;fill:url(#XMLID_12_);enable-background:new    ;}
+	.st5{opacity:3.000000e-02;fill:url(#XMLID_13_);enable-background:new    ;}
+</style>
+<linearGradient id="XMLID_8_" gradientUnits="userSpaceOnUse" x1="0" y1="372.9211" x2="2085.0671" y2="372.9211" gradientTransform="matrix(1 0 0 1 0 85)">
+	<stop  offset="0" style="stop-color:#4253FF"/>
+	<stop  offset="1" style="stop-color:#426CFF"/>
+</linearGradient>
+<polygon id="XMLID_4_" class="st0" points="2085.1,915.8 0,915.8 0,0 570.1,0 2085.1,0 "/>
+<linearGradient id="XMLID_9_" gradientUnits="userSpaceOnUse" x1="669.2743" y1="1571.6614" x2="2172.3269" y2="1571.6614" gradientTransform="matrix(0.8091 0.5877 -0.5877 0.8091 547.1439 -1259.4736)">
+	<stop  offset="0" style="stop-color:#3FFFF6"/>
+	<stop  offset="3.008419e-02" style="stop-color:#41F5F6"/>
+	<stop  offset="0.2175" style="stop-color:#4FBEF9"/>
+	<stop  offset="0.4" style="stop-color:#5A91FB"/>
+	<stop  offset="0.5736" style="stop-color:#636DFD"/>
+	<stop  offset="0.7359" style="stop-color:#6954FE"/>
+	<stop  offset="0.8826" style="stop-color:#6D44FF"/>
+	<stop  offset="1" style="stop-color:#6E3FFF"/>
+</linearGradient>
+<polygon id="XMLID_1_" class="st1" points="7,913.2 1657.4,908.5 461,-2 251.1,435.3 ">
+<animate  accumulate="none" additive="replace" attributeName="points" begin="0s" calcMode="linear" dur="11s" fill="freeze" id="animation" restart="always" to="4.6,400 1125.8,596.5 402,0 164.5,286.5 ">
+	</animate>
+<animate  accumulate="none" additive="replace" attributeName="points" begin="animation.end + 1s" calcMode="linear" dur="11s" fill="freeze" id="animation1" restart="always" to="4.6,599.6 1085.8,596.5 302,0 164.5,286.5 ">
+	</animate>
+</polygon>
+<linearGradient id="XMLID_10_" gradientUnits="userSpaceOnUse" x1="1327.8777" y1="718.6839" x2="995.4374" y2="142.8801" gradientTransform="matrix(1 0 0 1 0 85)">
+	<stop  offset="0" style="stop-color:#55FFB5"/>
+	<stop  offset="8.578493e-02" style="stop-color:#56F4B7"/>
+	<stop  offset="0.2352" style="stop-color:#7FF2FF"/>
+	<stop  offset="0.4303" style="stop-color:#5FA9C6"/>
+	<stop  offset="0.6636" style="stop-color:#6769D4"/>
+	<stop  offset="0.9266" style="stop-color:#7018E4"/>
+	<stop  offset="1" style="stop-color:#7300E9"/>
+</linearGradient>
+<polyline id="XMLID_5_" class="st2" points="1640.1,385.9 580.3,467.5 1140.2,912 ">
+<animate  accumulate="none" additive="replace" attributeName="points" begin="0s" calcMode="linear" dur="11s" fill="freeze" id="animation2" restart="always" to="1174.5,252.8 480.2,306.3 647,597.5 ">
+	</animate>
+<animate  accumulate="none" additive="replace" attributeName="points" begin="animation2.end + 1s" calcMode="linear" dur="11s" fill="freeze" id="animation3" restart="always" to="1074.5,252.8 380.2,306.3 747,597.5 ">
+	</animate>
+</polyline>
+<linearGradient id="XMLID_11_" gradientUnits="userSpaceOnUse" x1="1859.749" y1="613.6497" x2="1950.9712" y2="1439.9347" gradientTransform="matrix(-0.9157 0.4019 -0.4019 -0.9157 3818.47 430.527)">
+	<stop  offset="0" style="stop-color:#94E8FF"/>
+	<stop  offset="1" style="stop-color:#872AFF"/>
+</linearGradient>
+<polyline id="XMLID_2_" class="st3" points="2085.1,204.5 1226.2,27.2 1528.5,812.5 ">
+<animate  accumulate="none" additive="replace" attributeName="points" begin="0s" calcMode="linear" dur="11s" fill="freeze" id="animation5" restart="always" to="1166,134 743.3,17.8 801.4,432.3 ">
+	</animate>
+<animate  accumulate="none" additive="replace" attributeName="points" begin="animation5.end + 1s" calcMode="linear" dur="11s" fill="freeze" id="animation6" restart="always" to="1366,134 803.3,17.8 1001.4,532.3 ">
+	</animate>
+</polyline>
+<linearGradient id="XMLID_12_" gradientUnits="userSpaceOnUse" x1="1740.5963" y1="-1505.9171" x2="1297.4342" y2="-1080.7322" gradientTransform="matrix(0.1775 -0.9841 0.9841 0.1775 1139.8057 2185.9045)">
+	<stop  offset="0" style="stop-color:#00B8E9"/>
+	<stop  offset="0.1527" style="stop-color:#14A2EC"/>
+	<stop  offset="0.4706" style="stop-color:#486AF2"/>
+	<stop  offset="0.9225" style="stop-color:#4253FF"/>
+	<stop  offset="0.9995" style="stop-color:#4253FF"/>
+</linearGradient>
+<polyline id="XMLID_3_" class="st4" points="6.9,916.3 588,490.7 0,183.6 ">
+<animate  accumulate="none" additive="replace" attributeName="points" begin="0s" calcMode="linear" dur="11s" fill="freeze" id="animation55" restart="always" to="2.5,300.3 685.2,221.5 0,220.3 ">
+	</animate>
+<animate  accumulate="none" additive="replace" attributeName="points" begin="animation55.end + 1s" calcMode="linear" dur="11s" fill="freeze" id="animation66" restart="always" to="4.5,600.3 385.2,321.5 0,120.3 ">
+	</animate>
+</polyline>
+<linearGradient id="XMLID_13_" gradientUnits="userSpaceOnUse" x1="1500.1062" y1="459.1771" x2="1553.8292" y2="945.7964" gradientTransform="matrix(0.8889 -0.3672 0.3619 0.876 391.0432 640.3056)">
+	<stop  offset="0" style="stop-color:#00B8E9"/>
+	<stop  offset="3.649420e-02" style="stop-color:#17A0ED"/>
+	<stop  offset="9.469355e-02" style="stop-color:#3581F2"/>
+	<stop  offset="0.1607" style="stop-color:#4F65F6"/>
+	<stop  offset="0.2352" style="stop-color:#634FF9"/>
+	<stop  offset="0.3222" style="stop-color:#743EFC"/>
+	<stop  offset="0.4298" style="stop-color:#7F33FE"/>
+	<stop  offset="0.5808" style="stop-color:#852CFF"/>
+	<stop  offset="1" style="stop-color:#872AFF"/>
+</linearGradient>
+<polyline id="XMLID_6_" class="st5" points="1752.8,567.1 2082.6,915.7 2085.1,519 ">
+<animate  accumulate="none" additive="replace" attributeName="points" begin="0s" calcMode="linear" dur="11s" fill="freeze" id="animation15" restart="always" to="948.3,571.5 1264.4,499.9 1166,340 ">
+	</animate>
+<animate  accumulate="none" additive="replace" attributeName="points" begin="animation15.end + 1s" calcMode="linear" dur="7s" fill="freeze" id="animation16" restart="always" to="1148.3,371.5 1364.4,599.9 1366,340 ">
+	</animate>
+</polyline>
+</svg>
